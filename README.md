@@ -1,6 +1,6 @@
 ## Hi there ⭐
 
-Me chamo kauany
+Eu me chamo kauany
 
 -Estou estudando na Alura;
 
